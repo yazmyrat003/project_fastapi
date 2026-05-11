@@ -12,6 +12,11 @@ books = [
     "id":2,
     "name":"Jemal",
     "author":"Rich Father and poor Father",
+    },
+    {
+    "id":2,
+    "name":"Jemal",
+    "author":"Rich Father and poor Father",
     }
 ]
 @app.get("/books")
